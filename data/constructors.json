@@ -1,0 +1,3043 @@
+[
+  {
+    "id": 0,
+    "team": "Red Bull",
+    "startPrice": 27.2,
+    "races": [
+      {
+        "id": 0,
+        "circuit": "Bahrain",
+        "price": 27.3,
+        "points": {
+          "total": 78,
+          "race position": 43,
+          "both drivers q3": 10,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 1
+        }
+      },
+      {
+        "id": 1,
+        "circuit": "Saudi Arabia",
+        "price": 27.4,
+        "points": {
+          "total": 95,
+          "race position": 43,
+          "qualifying position": 10,
+          "one driver q3": 5,
+          "race position gained": 13,
+          "race fastest lap": 10,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 2,
+        "circuit": "Australia",
+        "price": 27.5,
+        "points": {
+          "total": 98,
+          "race position": 35,
+          "qualifying position": 10,
+          "qf not classified": -5,
+          "one driver q3": 5,
+          "race position gained": 15,
+          "race fastest lap": 10,
+          "fastest pitstop": 10,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 13
+        }
+      },
+      {
+        "id": 3,
+        "circuit": "Azerbaijan",
+        "price": 27.6,
+        "points": {
+          "total": 108,
+          "race position": 43,
+          "qualifying position": 17,
+          "sprint fastest lap": 5,
+          "sprint positions gained": 1,
+          "sprint overtake bonus": 3,
+          "sprint position": 14,
+          "both drivers q3": 10,
+          "race position gained": 2,
+          "fastest pitstop": 10,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 4,
+        "circuit": "United States - Miami",
+        "price": 27.7,
+        "points": {
+          "total": 97,
+          "race position": 43,
+          "qualifying position": 12,
+          "both drivers q3": 10,
+          "race position gained": 7,
+          "race overtake bonus": 10,
+          "race fastest lap": 10,
+          "2nd fastest pitstop": 5
+        }
+      },
+      {
+        "id": 5,
+        "circuit": "Monaco",
+        "price": 27.8,
+        "points": {
+          "total": 63,
+          "race position": 25,
+          "qualifying position": 10,
+          "one driver q3": 5,
+          "race position gained": 4,
+          "fastest pitstop": 10,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 6,
+        "circuit": "Spain",
+        "price": 27.9,
+        "points": {
+          "total": 96,
+          "race position": 37,
+          "qualifying position": 10,
+          "one driver q3": 5,
+          "race position gained": 7,
+          "race fastest lap": 10,
+          "fastest pitstop": 10,
+          "2nd fastest pitstop": 5,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 7,
+        "circuit": "Canada",
+        "price": 28.1,
+        "points": {
+          "total": 86,
+          "race position": 33,
+          "qualifying position": 10,
+          "one driver q3": 5,
+          "race position gained": 6,
+          "race fastest lap": 10,
+          "fastest pitstop": 10,
+          "2nd fastest pitstop": 5,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 8,
+        "circuit": "Austria",
+        "price": 28.2,
+        "points": {
+          "total": 112,
+          "race position": 40,
+          "qualifying position": 10,
+          "sprint overtake bonus": 3,
+          "sprint position": 15,
+          "one driver q3": 5,
+          "race position gained": 12,
+          "race fastest lap": 10,
+          "race overtake bonus": 17
+        }
+      },
+      {
+        "id": 9,
+        "circuit": "United Kingdom",
+        "price": 28.4,
+        "points": {
+          "total": 77,
+          "race position": 33,
+          "qualifying position": 10,
+          "one driver q3": 5,
+          "race position gained": 9,
+          "race fastest lap": 10,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 10,
+        "circuit": "Hungary",
+        "price": 28.6,
+        "points": {
+          "total": 95,
+          "race position": 40,
+          "qualifying position": 11,
+          "both drivers q3": 10,
+          "race position gained": 7,
+          "race fastest lap": 10,
+          "fastest pitstop": 10,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 11,
+        "circuit": "Austria",
+        "price": 28.7,
+        "points": {
+          "total": 80,
+          "sprint fastest lap": 5,
+          "sprint overtake bonus": 1,
+          "race position": 43,
+          "qualifying position": 18,
+          "sprint position": 8,
+          "both drivers q3": 10,
+          "race position gained": 5,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 5,
+          "sprint not classified": -20
+        }
+      },
+      {
+        "id": 12,
+        "circuit": "Netherlands",
+        "price": 28.8,
+        "points": {
+          "total": 101,
+          "race position": 37,
+          "qualifying position": 14,
+          "both drivers q3": 10,
+          "race position gained": 3,
+          "fastest pitstop": 10,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 22
+        }
+      },
+      {
+        "id": 13,
+        "circuit": "Monza",
+        "price": 29,
+        "points": {
+          "total": 81,
+          "race position": 43,
+          "qualifying position": 15,
+          "both drivers q3": 10,
+          "race position gained": 4,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 14,
+        "circuit": "Singapore",
+        "price": 29.1,
+        "points": {
+          "total": 54,
+          "race position": 14,
+          "both drivers q2": 3,
+          "race position gained": 11,
+          "fastest pitstop": 10,
+          "race overtake bonus": 16
+        }
+      },
+      {
+        "id": 15,
+        "circuit": "Japan",
+        "price": 29.2,
+        "points": {
+          "total": 46,
+          "race position": 25,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "qualifying position": 16,
+          "race fastest lap": 10,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 16,
+        "circuit": "Qatar",
+        "price": 29.3,
+        "points": {
+          "total": 64,
+          "sprint fastest lap": 5,
+          "sprint positions gained": 1,
+          "sprint overtake bonus": 6,
+          "race position": 26,
+          "qualifying position": 10,
+          "sprint position": 7,
+          "one driver q3": 5,
+          "race position gained": 10,
+          "race fastest lap": 10,
+          "race overtake bonus": 4,
+          "race not classified": -20
+        }
+      },
+      {
+        "id": 17,
+        "circuit": "Austin",
+        "price": 29.4,
+        "points": {
+          "total": 95,
+          "sprint fastest lap": 5,
+          "sprint positions gained": 2,
+          "sprint overtake bonus": 2,
+          "race position": 37,
+          "qualifying position": 7,
+          "sprint position": 12,
+          "both drivers q3": 10,
+          "race position gained": 10,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 18,
+        "circuit": "Mexico",
+        "price": 29.4,
+        "points": {
+          "total": 45,
+          "race position": 25,
+          "qualifying position": 14,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "race position gained": 2,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 19,
+        "circuit": "Brazil",
+        "price": 29.6,
+        "points": {
+          "total": 105,
+          "sprint positions gained": 1,
+          "sprint overtake bonus": 4,
+          "race position": 37,
+          "qualifying position": 12,
+          "sprint position": 14,
+          "both drivers q3": 10,
+          "race position gained": 5,
+          "fastest pitstop": 10,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 20,
+        "circuit": "Las Vegas",
+        "price": 29.7,
+        "points": {
+          "total": 84,
+          "race position": 40,
+          "qualifying position": 8,
+          "one driver q3": 5,
+          "race position gained": 9,
+          "race overtake bonus": 22
+        }
+      },
+      {
+        "id": 21,
+        "circuit": "Abu Dhabi",
+        "price": 29.7,
+        "points": {
+          "total": 87,
+          "race position": 37,
+          "qualifying position": 12,
+          "both drivers q3": 10,
+          "race position gained": 5,
+          "race fastest lap": 10,
+          "race overtake bonus": 13
+        }
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "team": "Aston Martin",
+    "startPrice": 6.7,
+    "races": [
+      {
+        "id": 0,
+        "circuit": "Bahrain",
+        "price": 6.8,
+        "points": {
+          "total": 52,
+          "race position": 23,
+          "qualifying position": 9,
+          "both drivers q3": 10,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 1,
+        "circuit": "Saudi Arabia",
+        "price": 6.8,
+        "points": {
+          "total": 19,
+          "race position": 15,
+          "qualifying position": 13,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "race position lost": -1,
+          "race overtake bonus": 2
+        }
+      },
+      {
+        "id": 2,
+        "circuit": "Australia",
+        "price": 6.9,
+        "points": {
+          "total": 54,
+          "race position": 27,
+          "qualifying position": 12,
+          "both drivers q3": 10,
+          "race position gained": 3,
+          "race overtake bonus": 2
+        }
+      },
+      {
+        "id": 3,
+        "circuit": "Azerbaijan",
+        "price": 7.0,
+        "points": {
+          "total": 55,
+          "sprint positions gained": 3,
+          "sprint overtake bonus": 5,
+          "race position": 18,
+          "qualifying position": 7,
+          "sprint position": 4,
+          "both drivers q3": 10,
+          "race position gained": 4,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 4,
+        "circuit": "United States - Miami",
+        "price": 7.0,
+        "points": {
+          "total": 42,
+          "race position": 15,
+          "qualifying position": 9,
+          "one driver q3": 5,
+          "race position gained": 5,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 5,
+        "circuit": "Monaco",
+        "price": 7.0,
+        "points": {
+          "total": 15,
+          "race position": 18,
+          "qualifying position": 9,
+          "one driver q3": 5,
+          "race not classified": -20,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 6,
+        "circuit": "Spain",
+        "price": 7.0,
+        "points": {
+          "total": 40,
+          "race position": 14,
+          "qualifying position": 7,
+          "both drivers q3": 10,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 7,
+        "circuit": "Canada",
+        "price": 8.0,
+        "points": {
+          "total": 41,
+          "race position": 20,
+          "qualifying position": 8,
+          "one driver q3": 5,
+          "race position gained": 7,
+          "race overtake bonus": 1
+        }
+      },
+      {
+        "id": 8,
+        "circuit": "Austria",
+        "price": 8.5,
+        "points": {
+          "total": 63,
+          "race position": 12,
+          "qualifying position": 9,
+          "sprint positions gained": 4,
+          "sprint overtake bonus": 10,
+          "sprint position": 9,
+          "both drivers q3": 10,
+          "race position lost": -1,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 9,
+        "circuit": "United Kingdom",
+        "price": 9,
+        "points": {
+          "total": 22,
+          "race position": 6,
+          "qualifying position": 2,
+          "one driver q3": 5,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 10,
+        "circuit": "Hungary",
+        "price": 9.5,
+        "points": {
+          "total": 21,
+          "race position": 3,
+          "qualifying position": 3,
+          "one driver q3": 5,
+          "race position gained": 3,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 11,
+        "circuit": "Austria",
+        "price": 10.0,
+        "points": {
+          "total": 24,
+          "sprint positions gained": 3,
+          "sprint overtake bonus": 2,
+          "race position": 12,
+          "qualifying position": 3,
+          "both drivers q3": 10,
+          "race position gained": 5,
+          "race overtake bonus": 9,
+          "sprint not classified": -20
+        }
+      },
+      {
+        "id": 12,
+        "circuit": "Netherlands",
+        "price": 11.0,
+        "points": {
+          "total": 67,
+          "race position": 18,
+          "qualifying position": 6,
+          "one driver q3": 5,
+          "race position gained": 3,
+          "race fastest lap": 10,
+          "race overtake bonus": 25
+        }
+      },
+      {
+        "id": 13,
+        "circuit": "Monza",
+        "price": 11.5,
+        "points": {
+          "total": 17,
+          "race position": 2,
+          "qualifying position": 1,
+          "one driver q3": 5,
+          "race position gained": 5,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 14,
+        "circuit": "Singapore",
+        "price": 11.5,
+        "points": {
+          "total": 4,
+          "qualifying position": 4,
+          "one driver q3": 5,
+          "race position lost": -8,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 15,
+        "circuit": "Japan",
+        "price": 11.5,
+        "points": {
+          "total": 7,
+          "race position": 4,
+          "qualifying position": 1,
+          "race not classified": -20,
+          "one driver q3": 5,
+          "race position gained": 2,
+          "race overtake bonus": 15
+        }
+      },
+      {
+        "id": 16,
+        "circuit": "Qatar",
+        "price": 12.0,
+        "points": {
+          "total": 47,
+          "sprint positions gained": 2,
+          "sprint overtake bonus": 5,
+          "race position": 8,
+          "qualifying position": 7,
+          "sprint position": 1,
+          "one driver q3": 5,
+          "race position gained": 3,
+          "race overtake bonus": 16
+        }
+      },
+      {
+        "id": 17,
+        "circuit": "Austin",
+        "price": 12.0,
+        "points": {
+          "total": 0,
+          "sprint positions lost": -1,
+          "sprint overtake bonus": 8,
+          "race position": 6,
+          "race not classified": -20,
+          "no driver q2": -1,
+          "race position gained": 13,
+          "race fastest lap": 15,
+          "sprint not classified": -20
+        }
+      },
+      {
+        "id": 18,
+        "circuit": "Mexico",
+        "price": 11.9,
+        "points": {
+          "total": -7,
+          "race not classified": -20,
+          "one driver q2": 1,
+          "race position gained": 3,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 19,
+        "circuit": "Brazil",
+        "price": 12.9,
+        "points": {
+          "total": 77,
+          "sprint positions gained": 9,
+          "sprint overtake bonus": 14,
+          "race position": 25,
+          "qualifying position": 15,
+          "both drivers q3": 10,
+          "race position lost": -1,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 20,
+        "circuit": "Las Vegas",
+        "price": 13.4,
+        "points": {
+          "total": 56,
+          "race position": 12,
+          "qualifying position": 1,
+          "one driver q3": 5,
+          "race position gained": 14,
+          "race overtake bonus": 24
+        }
+      },
+      {
+        "id": 21,
+        "circuit": "Abu Dhabi",
+        "price": 13.4,
+        "points": {
+          "total": 32,
+          "race position": 7,
+          "qualifying position": 4,
+          "one driver q3": 5,
+          "race position gained": 3,
+          "race overtake bonus": 13
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "team": "Ferrari",
+    "startPrice": 22.1,
+    "races": [
+      {
+        "id": 0,
+        "circuit": "Bahrain",
+        "price": 22.1,
+        "points": {
+          "total": 31,
+          "race position": 12,
+          "qualifying position": 15,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "race overtake bonus": 1,
+          "fastest pitstop": 10,
+          "3rd fastest pitstop": 3
+        }
+      },
+      {
+        "id": 1,
+        "circuit": "Saudi Arabia",
+        "price": 22.2,
+        "points": {
+          "total": 59,
+          "race position": 14,
+          "qualifying position": 15,
+          "both drivers q3": 10,
+          "race position gained": 3,
+          "fastest pitstop": 10,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 2,
+        "circuit": "Australia",
+        "price": 22.1,
+        "points": {
+          "total": 3,
+          "race not classified": -20,
+          "qualifying position": 7,
+          "both drivers q3": 10,
+          "race position lost": -7,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 3,
+        "circuit": "Azerbaijan",
+        "price": 22.2,
+        "points": {
+          "total": 63,
+          "sprint positions lost": -1,
+          "sprint overtake bonus": 1,
+          "race position": 25,
+          "qualifying position": 17,
+          "sprint position": 11,
+          "both drivers q3": 10,
+          "race position lost": -3,
+          "3rd fastest pitstop": 3
+        }
+      },
+      {
+        "id": 4,
+        "circuit": "United States - Miami",
+        "price": 22.2,
+        "points": {
+          "total": 56,
+          "race position": 16,
+          "qualifying position": 12,
+          "both drivers q3": 10,
+          "race position lost": -2,
+          "race overtake bonus": 10,
+          "fastest pitstop": 10
+        }
+      },
+      {
+        "id": 5,
+        "circuit": "Monaco",
+        "price": 22.2,
+        "points": {
+          "total": 37,
+          "race position": 12,
+          "qualifying position": 14,
+          "one driver q3": 10,
+          "race position lost": -4,
+          "2nd fastest pitstop": 5
+        }
+      },
+      {
+        "id": 6,
+        "circuit": "Spain",
+        "price": 22.2,
+        "points": {
+          "total": 38,
+          "race position": 10,
+          "qualifying position": 9,
+          "one driver q3": 5,
+          "race position gained": 5,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 7,
+        "circuit": "Canada",
+        "price": 22.5,
+        "points": {
+          "total": 46,
+          "race position": 22,
+          "qualifying position": 3,
+          "one driver q3": 5,
+          "race position gained": 12,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 8,
+        "circuit": "Austria",
+        "price": 22.8,
+        "points": {
+          "total": 73,
+          "sprint positions lost": -1,
+          "sprint overtake bonus": 11,
+          "race position": 26,
+          "qualifying position": 17,
+          "sprint position": 6,
+          "both drivers q3": 10,
+          "race position lost": -3,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 9,
+        "circuit": "United Kingdom",
+        "price": 22.9,
+        "points": {
+          "total": 25,
+          "race position": 3,
+          "qualifying position": 13,
+          "both drivers q3": 10,
+          "2nd fastest pitstop": 5,
+          "race position lost": -10,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 10,
+        "circuit": "Hungary",
+        "price": 23.0,
+        "points": {
+          "total": 32,
+          "race position": 10,
+          "qualifying position": 5,
+          "one driver q3": 5,
+          "race position gained": 2,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 11,
+        "circuit": "Austria",
+        "price": 23.1,
+        "points": {
+          "total": 38,
+          "sprint positions lost": -2,
+          "sprint overtake bonus": 2,
+          "race position": 15,
+          "qualifying position": 15,
+          "sprint position": 9,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "race position lost": -2,
+          "fastest pitstop": 10,
+          "race overtake bonus": 1
+        }
+      },
+      {
+        "id": 12,
+        "circuit": "Netherlands",
+        "price": 23.2,
+        "points": {
+          "total": 34,
+          "race position": 10,
+          "qualifying position": 7,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "race position gained": 1,
+          "race overtake bonus": 26
+        }
+      },
+      {
+        "id": 13,
+        "circuit": "Monza",
+        "price": 23.5,
+        "points": {
+          "total": 67,
+          "race position": 27,
+          "qualifying position": 18,
+          "both drivers q3": 10,
+          "race position lost": -3,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 14,
+        "circuit": "Singapore",
+        "price": 23.8,
+        "points": {
+          "total": 70,
+          "race position": 37,
+          "qualifying position": 18,
+          "both drivers q3": 10,
+          "race position lost": -1,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 15,
+        "circuit": "Japan",
+        "price": 24.1,
+        "points": {
+          "total": 65,
+          "race position": 20,
+          "qualifying position": 12,
+          "both drivers q3": 10,
+          "fastest pitstop": 10,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 16,
+        "circuit": "Qatar",
+        "price": 24.2,
+        "points": {
+          "total": 18,
+          "sprint positions lost": -7,
+          "sprint overtake bonus": 7,
+          "race position": 10,
+          "qualifying position": 8,
+          "sprint position": 3,
+          "one driver q3": 5,
+          "race not classified": -20,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 17,
+        "circuit": "Austin",
+        "price": 24.3,
+        "points": {
+          "total": 35,
+          "sprint positions lost": -1,
+          "sprint overtake bonus": 2,
+          "race position": 15,
+          "qualifying position": 17,
+          "sprint position": 9,
+          "dq race": -25,
+          "both drivers q3": 10,
+          "race position gained": 1,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 18,
+        "circuit": "Mexico",
+        "price": 24.6,
+        "points": {
+          "total": 63,
+          "race position": 27,
+          "qualifying position": 19,
+          "both drivers q3": 10,
+          "race position lost": -4,
+          "fastest pitstop": 10,
+          "race overtake bonus": 1
+        }
+      },
+      {
+        "id": 19,
+        "circuit": "Brazil",
+        "price": 24.7,
+        "points": {
+          "total": 28,
+          "sprint positions gained": 3,
+          "sprint overtake bonus": 6,
+          "race position": 8,
+          "qualifying position": 12,
+          "sprint position": 5,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "race position gained": 1,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 20,
+        "circuit": "Las Vegas",
+        "price": 25.0,
+        "points": {
+          "total": 78,
+          "race position": 26,
+          "qualifying position": 19,
+          "both drivers q3": 10,
+          "race position gained": 5,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 15
+        }
+      },
+      {
+        "id": 21,
+        "circuit": "Abu Dhabi",
+        "price": 25.0,
+        "points": {
+          "total": 48,
+          "race position": 18,
+          "qualifying position": 9,
+          "one driver q3": 5,
+          "race position lost": -2,
+          "fastest pitstop": 10,
+          "race overtake bonus": 8
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "team": "Alpine",
+    "startPrice": 10.1,
+    "races": [
+      {
+        "id": 0,
+        "circuit": "Bahrain",
+        "price": 10,
+        "points": {
+          "total": -3,
+          "race position": 2,
+          "qualifying position": 2,
+          "race not classified": -20,
+          "both drivers q3": 5,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 1,
+        "circuit": "Saudi Arabia",
+        "price": 10,
+        "points": {
+          "total": 28,
+          "race position": 6,
+          "qualifying position": 5,
+          "both drivers q3": 10,
+          "race position lost": -2,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 2,
+        "circuit": "Australia",
+        "price": 9.9,
+        "points": {
+          "total": 11,
+          "qualifying position": 2,
+          "one driver q3": 5,
+          "race position lost": -7,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 3,
+        "circuit": "Azerbaijan",
+        "price": 9.9,
+        "points": {
+          "total": 25,
+          "sprint positions gained": 5,
+          "sprint overtake bonus": 7,
+          "one driver q2": 1,
+          "race position gained": 7,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 4,
+        "circuit": "United States - Miami",
+        "price": 9.9,
+        "points": {
+          "total": 28,
+          "race position": 6,
+          "qualifying position": 9,
+          "both drivers q3": 10,
+          "race position lost": -4,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 5,
+        "circuit": "Monaco",
+        "price": 10.0,
+        "points": {
+          "total": 42,
+          "race position": 21,
+          "qualifying position": 11,
+          "one driver q3": 10
+        }
+      },
+      {
+        "id": 6,
+        "circuit": "Spain",
+        "price": 10.0,
+        "points": {
+          "total": 33,
+          "race position": 5,
+          "qualifying position": 11,
+          "both drivers q3": 10,
+          "race position lost": -2,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 7,
+        "circuit": "Canada",
+        "price": 10.5,
+        "points": {
+          "total": 24,
+          "race position": 4,
+          "qualifying position": 5,
+          "one driver q3": 5,
+          "race position gained": 1,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 8,
+        "circuit": "Austria",
+        "price": 10.5,
+        "points": {
+          "total": 21,
+          "sprint positions lost": -2,
+          "sprint overtake bonus": 6,
+          "race position": 1,
+          "qualifying position": 2,
+          "sprint position": 2,
+          "one driver q3": 5,
+          "race position lost": -3,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 9,
+        "circuit": "United Kingdom",
+        "price": 10.4,
+        "points": {
+          "total": -16,
+          "qualifying position": 1,
+          "race not classified": -20,
+          "one driver q3": 5,
+          "race position lost": -8,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 10,
+        "circuit": "Hungary",
+        "price": 10.3,
+        "points": {
+          "total": -35,
+          "one driver q2": 3,
+          "race not classified": -40,
+          "race overtake bonus": 2
+        }
+      },
+      {
+        "id": 11,
+        "circuit": "Belgium",
+        "price": 10.8,
+        "points": {
+          "total": 43,
+          "both drivers q2": 3,
+          "sprint positions gained": 3,
+          "sprint overtake bonus": 1,
+          "race position": 4,
+          "sprint position": 6,
+          "race position gained": 7,
+          "race overtake bonus": 19
+        }
+      },
+      {
+        "id": 12,
+        "circuit": "Netherlands",
+        "price": 11.3,
+        "points": {
+          "total": 66,
+          "race position": 16,
+          "one driver q2": 1,
+          "race position gained": 15,
+          "race overtake bonus": 34
+        }
+      },
+      {
+        "id": 13,
+        "circuit": "Monza",
+        "price": 11.2,
+        "points": {
+          "total": -16,
+          "race not classified": -20,
+          "no driver q2": -1,
+          "race position gained": 2,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 14,
+        "circuit": "Singapore",
+        "price": 11.2,
+        "points": {
+          "total": 13,
+          "race position": 8,
+          "qualifying position": 3,
+          "race not classified": -20,
+          "one driver q3": 5,
+          "race position gained": 6,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 15,
+        "circuit": "Japan",
+        "price": 11.7,
+        "points": {
+          "total": 20,
+          "race position": 3,
+          "both drivers q2": 3,
+          "race position gained": 7,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 16,
+        "circuit": "Qatar",
+        "price": 12.2,
+        "points": {
+          "total": 23,
+          "sprint positions gained": 2,
+          "sprint overtake bonus": 8,
+          "race position": 6,
+          "qualifying position": 7,
+          "both drivers q3": 10,
+          "race position lost": -4,
+          "race overtake bonus": 14,
+          "sprint not classified": -20
+        }
+      },
+      {
+        "id": 17,
+        "circuit": "Austin",
+        "price": 12.7,
+        "points": {
+          "total": 27,
+          "sprint positions gained": 4,
+          "sprint overtake bonus": 5,
+          "race position": 8,
+          "qualifying position": 7,
+          "sprint position": 2,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "race position gained": 1,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 18,
+        "circuit": "Mexico",
+        "price": 13.2,
+        "points": {
+          "total": 21,
+          "race position": 1,
+          "one driver q2": 1,
+          "race position gained": 5,
+          "race overtake bonus": 14
+        }
+      },
+      {
+        "id": 19,
+        "circuit": "Brazil",
+        "price": 13.7,
+        "points": {
+          "total": 44,
+          "both drivers q2": 3,
+          "sprint positions gained": 2,
+          "sprint overtake bonus": 8,
+          "race position": 7,
+          "race position gained": 12,
+          "race overtake bonus": 12
+        }
+      },
+      {
+        "id": 20,
+        "circuit": "Las Vegas",
+        "price": 14.2,
+        "points": {
+          "total": 46,
+          "race position": 12,
+          "qualifying position": 6,
+          "one driver q3": 5,
+          "race position gained": 5,
+          "race overtake bonus": 18
+        }
+      },
+      {
+        "id": 21,
+        "circuit": "Abu Dhabi",
+        "price": 14.2,
+        "points": {
+          "total": 11,
+          "qualifying position": 1,
+          "one driver q3": 5,
+          "race position lost": -3,
+          "race overtake bonus": 8
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "team": "Mercedes",
+    "startPrice": 25.1,
+    "races": [
+      {
+        "id": 0,
+        "circuit": "Bahrain",
+        "price": 25.1,
+        "points": {
+          "total": 44,
+          "race position": 16,
+          "qualifying position": 9,
+          "both drivers q3": 10,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 1,
+        "circuit": "Saudi Arabia",
+        "price": 25.1,
+        "points": {
+          "total": 45,
+          "race position": 22,
+          "qualifying position": 10,
+          "both drivers q3": 10,
+          "race position gained": 1,
+          "race overtake bonus": 1
+        }
+      },
+      {
+        "id": 2,
+        "circuit": "Australia",
+        "price": 25.1,
+        "points": {
+          "total": 32,
+          "race position": 18,
+          "qualifying position": 17,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "race position gained": 1,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 3,
+        "circuit": "Azerbaijan",
+        "price": 25.1,
+        "points": {
+          "total": 49,
+          "sprint positions lost": -1,
+          "sprint overtake bonus": 1,
+          "race position": 12,
+          "qualifying position": 6,
+          "sprint position": 7,
+          "one driver q3": 5,
+          "race position gained": 2,
+          "race fastest lap": 10,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 4,
+        "circuit": "United States - Miami",
+        "price": 25.1,
+        "points": {
+          "total": 57,
+          "race position": 20,
+          "qualifying position": 5,
+          "one driver q3": 5,
+          "race position gained": 9,
+          "race overtake bonus": 18
+        }
+      },
+      {
+        "id": 5,
+        "circuit": "Monaco",
+        "price": 25.2,
+        "points": {
+          "total": 54,
+          "race position": 22,
+          "qualifying position": 8,
+          "one driver q3": 10,
+          "race position gained": 4,
+          "race fastest lap": 10
+        }
+      },
+      {
+        "id": 6,
+        "circuit": "Spain",
+        "price": 25.2,
+        "points": {
+          "total": 65,
+          "race position": 33,
+          "qualifying position": 6,
+          "one driver q3": 5,
+          "race position gained": 11,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 7,
+        "circuit": "Canada",
+        "price": 25.2,
+        "points": {
+          "total": 21,
+          "race position": 15,
+          "qualifying position": 13,
+          "both drivers q3": 10,
+          "race overtake bonus": 3,
+          "race not classified": -20
+        }
+      },
+      {
+        "id": 8,
+        "circuit": "Austria",
+        "price": 25.2,
+        "points": {
+          "total": 70,
+          "sprint positions gained": 15,
+          "sprint overtake bonus": 23,
+          "race position": 10,
+          "qualifying position": 6,
+          "sprint position": 1,
+          "one driver q3": 5,
+          "race position gained": 1,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 9,
+        "circuit": "United Kingdom",
+        "price": 25.3,
+        "points": {
+          "total": 53,
+          "race position": 25,
+          "qualifying position": 92,
+          "both drivers q3": 10,
+          "race position gained": 5,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 10,
+        "circuit": "Hungary",
+        "price": 25.4,
+        "points": {
+          "total": 52,
+          "race position": 20,
+          "qualifying position": 10,
+          "one driver q3": 5,
+          "race position gained": 9,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 11,
+        "circuit": "Belgium",
+        "price": 25.5,
+        "points": {
+          "total": 70,
+          "sprint positions gained": 2,
+          "sprint overtake bonus": 6,
+          "race position": 20,
+          "qualifying position": 10,
+          "sprint position": 3,
+          "both drivers q3": 10,
+          "race fastest lap": 10,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 12,
+        "circuit": "Netherlands",
+        "price": 25.5,
+        "points": {
+          "total": 40,
+          "race position": 8,
+          "qualifying position": 8,
+          "one driver q3": 5,
+          "race position lost": -7,
+          "race overtake bonus": 26
+        }
+      },
+      {
+        "id": 13,
+        "circuit": "Monza",
+        "price": 25.6,
+        "points": {
+          "total": 44,
+          "race position": 18,
+          "qualifying position": 10,
+          "both drivers q3": 10,
+          "race position gained": 1,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 14,
+        "circuit": "Singapore",
+        "price": 25.7,
+        "points": {
+          "total": 47,
+          "race position": 15,
+          "qualifying position": 15,
+          "both drivers q3": 10,
+          "race position lost": -12,
+          "race fastest lap": 10,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 15,
+        "circuit": "Japan",
+        "price": 25.8,
+        "points": {
+          "total": 44,
+          "race position": 16,
+          "qualifying position": 7,
+          "both drivers q3": 10,
+          "race position gained": 3,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 16,
+        "circuit": "Qatar",
+        "price": 25.9,
+        "points": {
+          "total": 53,
+          "sprint positions gained": 7,
+          "sprint overtake bonus": 11,
+          "race position": 12,
+          "qualifying position": 17,
+          "sprint position": 9,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "race position lost": -2,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 17,
+        "circuit": "Austin",
+        "price": 25.9,
+        "points": {
+          "total": 31,
+          "sprint positions gained": 4,
+          "sprint overtake bonus": 4,
+          "race position": 10,
+          "qualifying position": 14,
+          "sprint position": 8,
+          "dq race": -25,
+          "both drivers q3": 10,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 18,
+        "circuit": "Mexico",
+        "price": 26.0,
+        "points": {
+          "total": 69,
+          "race position": 26,
+          "qualifying position": 8,
+          "both drivers q3": 10,
+          "race position gained": 6,
+          "race fastest lap": 10,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 19,
+        "circuit": "Brazil",
+        "price": 26.0,
+        "points": {
+          "total": 24,
+          "sprint fastest lap": 5,
+          "sprint positions lost": -2,
+          "sprint overtake bonus": 4,
+          "race position": 4,
+          "qualifying position": 11,
+          "sprint position": 7,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "race position lost": -3,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 20,
+        "circuit": "Las Vegas",
+        "price": 26.0,
+        "points": {
+          "total": 45,
+          "race position": 10,
+          "qualifying position": 7,
+          "one driver q3": 5,
+          "race position lost": -2,
+          "race overtake bonus": 25
+        }
+      },
+      {
+        "id": 21,
+        "circuit": "Abu Dhabi",
+        "price": 26.0,
+        "points": {
+          "total": 51,
+          "race position": 17,
+          "qualifying position": 7,
+          "one driver q3": 5,
+          "race position gained": 3,
+          "race overtake bonus": 19
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "team": "Alfa Romeo",
+    "startPrice": 6.2,
+    "races": [
+      {
+        "id": 0,
+        "circuit": "Bahrain",
+        "price": 6.2,
+        "points": {
+          "total": 30,
+          "race position": 4,
+          "both drivers q2": 3,
+          "race fastest lap": 10,
+          "race overtake bonus": 13
+        }
+      },
+      {
+        "id": 1,
+        "circuit": "Saudi Arabia",
+        "price": 6.1,
+        "points": {
+          "total": 7,
+          "both drivers q2": 3,
+          "race position lost": -6,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 2,
+        "circuit": "Australia",
+        "price": 6.1,
+        "points": {
+          "total": 26,
+          "race position": 2,
+          "no driver q2": -1,
+          "race position gained": 16,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 3,
+        "circuit": "Azerbaijan",
+        "price": 6.0,
+        "points": {
+          "total": -10,
+          "sprint positions gained": 1,
+          "sprint overtake bonus": 8,
+          "race not classified": -20,
+          "one driver q2": 1,
+          "race position lost": -5,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 4,
+        "circuit": "United States - Miami",
+        "price": 5.9,
+        "points": {
+          "total": 8,
+          "race position": 8,
+          "qualifying position": 1,
+          "one driver q3": 5,
+          "race position lost": -5,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 5,
+        "circuit": "Monaco",
+        "price": 5.9,
+        "points": {
+          "total": 22,
+          "one driver q2": 1,
+          "race position gained": 10,
+          "race fastest lap": 11
+        }
+      },
+      {
+        "id": 6,
+        "circuit": "Spain",
+        "price": 5.9,
+        "points": {
+          "total": 19,
+          "race position": 2,
+          "one driver q2": 1,
+          "race position gained": 1,
+          "race overtake bonus": 15
+        }
+      },
+      {
+        "id": 7,
+        "circuit": "Canada",
+        "price": 5.9,
+        "points": {
+          "total": 11,
+          "race position": 1,
+          "one driver q2": 1,
+          "race position gained": 8,
+          "race overtake bonus": 1
+        }
+      },
+      {
+        "id": 8,
+        "circuit": "Austria",
+        "price": 5.9,
+        "points": {
+          "total": 16,
+          "sprint positions lost": -4,
+          "sprint overtake bonus": 4,
+          "one driver q2": 1,
+          "race position gained": 4,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 9,
+        "circuit": "United Kingdom",
+        "price": 5.9,
+        "points": {
+          "total": 0,
+          "dq qualifying": -15,
+          "no driver q2": -1,
+          "race position gained": 10,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 10,
+        "circuit": "Hungary",
+        "price": 5.9,
+        "points": {
+          "total": 6,
+          "qualifying position": 10,
+          "both drivers q3": 10,
+          "race position lost": -16,
+          "race overtake bonus": 2
+        }
+      },
+      {
+        "id": 11,
+        "circuit": "Belgium",
+        "price": 6.4,
+        "points": {
+          "total": 26,
+          "sprint positions gained": 8,
+          "sprint overtake bonus": 1,
+          "one driver q2": 1,
+          "race position gained": 5,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 12,
+        "circuit": "Netherlands",
+        "price": 6.4,
+        "points": {
+          "total": 4,
+          "race not classified": -20,
+          "no driver q2": -1,
+          "race position gained": 4,
+          "race overtake bonus": 21
+        }
+      },
+      {
+        "id": 13,
+        "circuit": "Monza",
+        "price": 6.4,
+        "points": {
+          "total": 12,
+          "race position": 1,
+          "one driver q2": 1,
+          "race position gained": 6,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 14,
+        "circuit": "Singapore",
+        "price": 6.3,
+        "points": {
+          "total": -8,
+          "race not classified": -20,
+          "no driver q2": -1,
+          "race position gained": 7,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 15,
+        "circuit": "Japan",
+        "price": 6.2,
+        "points": {
+          "total": -10,
+          "race not classified": -20,
+          "no driver q2": -1,
+          "race position gained": 6,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 16,
+        "circuit": "Qatar",
+        "price": 6.7,
+        "points": {
+          "total": 39,
+          "sprint positions gained": 4,
+          "sprint overtake bonus": 3,
+          "race position": 6,
+          "qualifying position": 2,
+          "one driver q3": 5,
+          "race position gained": 11,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 17,
+        "circuit": "Austin",
+        "price": 6.7,
+        "points": {
+          "total": 15,
+          "both drivers q2": 3,
+          "sprint overtake bonus": 7,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 18,
+        "circuit": "Mexico",
+        "price": 6.7,
+        "points": {
+          "total": 14,
+          "qualifying position": 3,
+          "both drivers q3": 10,
+          "race position lost": -10,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 19,
+        "circuit": "Brazil",
+        "price": 6.6,
+        "points": {
+          "total": -31,
+          "sprint positions lost": -4,
+          "sprint overtake bonus": 5,
+          "race not classified": -40,
+          "no driver q2": -1,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 20,
+        "circuit": "Las Vegas",
+        "price": 6.6,
+        "points": {
+          "total": 12,
+          "qualifying position": 3,
+          "one driver q3": 5,
+          "race position lost": -8,
+          "race overtake bonus": 12
+        }
+      },
+      {
+        "id": 21,
+        "circuit": "Abu Dhabi",
+        "price": 6.6,
+        "points": {
+          "total": 13,
+          "no driver q2": -1,
+          "race position gained": 1,
+          "race overtake bonus": 13
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "team": "Williams",
+    "startPrice": 5.1,
+    "races": [
+      {
+        "id": 0,
+        "circuit": "Bahrain",
+        "price": 5.1,
+        "points": {
+          "total": 16,
+          "race position": 1,
+          "both drivers q2": 1,
+          "race overtake bonus": 14
+        }
+      },
+      {
+        "id": 1,
+        "circuit": "Saudi Arabia",
+        "price": 5,
+        "points": {
+          "total": -16,
+          "race not classified": -20,
+          "qf not classified": -5,
+          "no driver q2": -1,
+          "race position gained": 4,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 2,
+        "circuit": "Australia",
+        "price": 4.9,
+        "points": {
+          "total": -5,
+          "race not classified": -20,
+          "qualifying position": 3,
+          "one driver q3": 5,
+          "race position gained": 2,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 3,
+        "circuit": "Azerbaijan",
+        "price": 4.8,
+        "points": {
+          "total": -15,
+          "both drivers q2": 3,
+          "sprint positions lost": -2,
+          "race position lost": -2,
+          "race overtake bonus": 6,
+          "sprint not classified": -20
+        }
+      },
+      {
+        "id": 4,
+        "circuit": "United States - Miami",
+        "price": 4.7,
+        "points": {
+          "total": 1,
+          "one driver q2": 1,
+          "race position lost": -3,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 5,
+        "circuit": "Monaco",
+        "price": 4.6,
+        "points": {
+          "total": 1,
+          "one driver q2": 1,
+          "race position lost": -3,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 6,
+        "circuit": "Spain",
+        "price": 4.5,
+        "points": {
+          "total": 5,
+          "no driver q2": -1,
+          "race position gained": 2,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 7,
+        "circuit": "Canada",
+        "price": 4.5,
+        "points": {
+          "total": -2,
+          "race position": 6,
+          "qualifying position": 1,
+          "one driver q3": 5,
+          "race position gained": 2,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 8,
+        "circuit": "Austria",
+        "price": 5,
+        "points": {
+          "total": 35,
+          "sprint overtake bonus": 14,
+          "qualifying position": 1,
+          "one driver q3": 5,
+          "race position gained": 4,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 9,
+        "circuit": "United Kingdom",
+        "price": 5.5,
+        "points": {
+          "total": 18,
+          "race position": 4,
+          "qualifying position": 3,
+          "one driver q3": 5,
+          "race position gained": 3,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 10,
+        "circuit": "Hungary",
+        "price": 5.5,
+        "points": {
+          "total": 9,
+          "no driver q2": -1,
+          "race position gained": 7,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 11,
+        "circuit": "Belgium",
+        "price": 6.0,
+        "points": {
+          "total": 21,
+          "sprint positions lost": -3,
+          "sprint overtake bonus": 4,
+          "no driver q2": -1,
+          "race position gained": 2,
+          "race overtake bonus": 19
+        }
+      },
+      {
+        "id": 12,
+        "circuit": "Netherlands",
+        "price": 6.0,
+        "points": {
+          "total": 9,
+          "race position": 4,
+          "qualifying position": 8,
+          "both drivers q3": 10,
+          "race position lost": -4,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 13,
+        "circuit": "Monza",
+        "price": 6.5,
+        "points": {
+          "total": 20,
+          "race position": 6,
+          "qualifying position": 5,
+          "one driver q3": 5,
+          "race position gained": 1,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 14,
+        "circuit": "Singapore",
+        "price": 7,
+        "points": {
+          "total": 19,
+          "one driver q2": 1,
+          "race position gained": 7,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 15,
+        "circuit": "Japan",
+        "price": 6.9,
+        "points": {
+          "total": -35,
+          "race not classified": -40,
+          "qf not classified": -5,
+          "one driver q2": -1,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 16,
+        "circuit": "Qatar",
+        "price": 6.8,
+        "points": {
+          "total": -10,
+          "sprint positions gained": 10,
+          "sprint overtake bonus": 8,
+          "sprint position": 2,
+          "race not classified": -20,
+          "one driver q2": 1,
+          "race overtake bonus": 9,
+          "sprint not classified": -20
+        }
+      },
+      {
+        "id": 17,
+        "circuit": "Austin",
+        "price": 7.3,
+        "points": {
+          "total": 29,
+          "sprint overtake bonus": 1,
+          "race position": 3,
+          "no driver q2": -1,
+          "race position gained": 12,
+          "race overtake bonus": 14
+        }
+      },
+      {
+        "id": 18,
+        "circuit": "Mexico",
+        "price": 7.8,
+        "points": {
+          "total": 20,
+          "race position": 2,
+          "qf not classified": -5,
+          "one driver q2": 1,
+          "race position gained": 8,
+          "race overtake bonus": 14
+        }
+      },
+      {
+        "id": 19,
+        "circuit": "Brazil",
+        "price": 7.8,
+        "points": {
+          "total": 2,
+          "sprint positions gained": 4,
+          "sprint overtake bonus": 5,
+          "race not classified": -20,
+          "one driver q2": 1,
+          "race position gained": 8,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 20,
+        "circuit": "Las Vegas",
+        "price": 7.8,
+        "points": {
+          "total": 7,
+          "qualifying position": 9,
+          "both drivers q3": 10,
+          "race position lost": -17,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 21,
+        "circuit": "Abu Dhabi",
+        "price": 7.8,
+        "points": {
+          "total": 12,
+          "qf not classified": -5,
+          "one driver q2": 1,
+          "race position gained": 4,
+          "race overtake bonus": 12
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "team": "Haas",
+    "startPrice": 5.3,
+    "races": [
+      {
+        "id": 0,
+        "circuit": "Bahrain",
+        "price": 5.3,
+        "points": {
+          "total": 13,
+          "qualifying position": 1,
+          "one driver q3": 5,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 1,
+        "circuit": "Saudi Arabia",
+        "price": 5.2,
+        "points": {
+          "total": 13,
+          "both drivers q2": 3,
+          "race position": 1,
+          "race position gained": 1,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 2,
+        "circuit": "Australia",
+        "price": 5.2,
+        "points": {
+          "total": 18,
+          "race position": 6,
+          "qualifying position": 1,
+          "one driver q3": 5,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 3,
+        "circuit": "Azerbaijan",
+        "price": 5.2,
+        "points": {
+          "total": 17,
+          "sprint positions lost": -1,
+          "sprint overtake bonus": 5,
+          "no driver q2": -1,
+          "race position gained": 6,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 4,
+        "circuit": "United States - Miami",
+        "price": 5.1,
+        "points": {
+          "total": 15,
+          "race position": 1,
+          "qualifying position": 7,
+          "one driver q3": 5,
+          "race position lost": -9,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 5,
+        "circuit": "Monaco",
+        "price": 5.0,
+        "points": {
+          "total": -13,
+          "race not classified": -20,
+          "no driver q2": -1,
+          "race position lost": -1,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 6,
+        "circuit": "Spain",
+        "price": 5.0,
+        "points": {
+          "total": 17,
+          "qualifying position": 3,
+          "one driver q3": 5,
+          "race position lost": -9,
+          "race overtake bonus": 18
+        }
+      },
+      {
+        "id": 7,
+        "circuit": "Canada",
+        "price": 5.0,
+        "points": {
+          "total": 4,
+          "qualifying position": 9,
+          "one driver q3": 5,
+          "race position lost": -14,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 8,
+        "circuit": "Austria",
+        "price": 5.0,
+        "points": {
+          "total": 14,
+          "sprint fastest lap": 5,
+          "sprint positions lost": -6,
+          "sprint overtake bonus": 13,
+          "qualifying position": 3,
+          "sprint position": 3,
+          "race not classified": -20,
+          "one driver q3": 5,
+          "race position gained": 1,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 9,
+        "circuit": "United Kingdom",
+        "price": 4.9,
+        "points": {
+          "total": -18,
+          "race not classified": -20,
+          "one driver q2": 1,
+          "race position lost": -2,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 10,
+        "circuit": "Hungary",
+        "price": 4.9,
+        "points": {
+          "total": 10,
+          "qualifying position": 1,
+          "one driver q3": 5,
+          "race position lost": -2,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 11,
+        "circuit": "Belgium",
+        "price": 5.4,
+        "points": {
+          "total": 23,
+          "sprint positions gained": 7,
+          "sprint overtake bonus": 2,
+          "one driver q2": 1,
+          "race fastest lap": 3,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 12,
+        "circuit": "Netherlands",
+        "price": 5.9,
+        "points": {
+          "total": 26,
+          "one driver q2": 1,
+          "race position gained": 6,
+          "race overtake bonus": 19
+        }
+      },
+      {
+        "id": 13,
+        "circuit": "Monza",
+        "price": 5.9,
+        "points": {
+          "total": 0,
+          "one driver q2": 1,
+          "race position lost": -3,
+          "race overtake bonus": 2
+        }
+      },
+      {
+        "id": 14,
+        "circuit": "Singapore",
+        "price": 6.4,
+        "points": {
+          "total": 18,
+          "race position": 1,
+          "qualifying position": 7,
+          "both drivers q3": 10,
+          "race position lost": -8,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 15,
+        "circuit": "Japan",
+        "price": 6.9,
+        "points": {
+          "total": 15,
+          "one driver q2": 1,
+          "race position gained": 4,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 16,
+        "circuit": "Qatar",
+        "price": 6.9,
+        "points": {
+          "total": 6,
+          "sprint positions gained": 6,
+          "sprint overtake bonus": 5,
+          "one driver q2": 1,
+          "race position gained": 2,
+          "race overtake bonus": 12,
+          "sprint not classified": -20
+        }
+      },
+      {
+        "id": 17,
+        "circuit": "Austin",
+        "price": 7.4,
+        "points": {
+          "total": 30,
+          "sprint overtake bonus": 11,
+          "one driver q2": 1,
+          "race position gained": 10,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 18,
+        "circuit": "Mexico",
+        "price": 7.3,
+        "points": {
+          "total": -7,
+          "race not classified": -20,
+          "one driver q2": 1,
+          "race position lost": -1,
+          "race overtake bonus": 13
+        }
+      },
+      {
+        "id": 19,
+        "circuit": "Brazil",
+        "price": 7.2,
+        "points": {
+          "total": -19,
+          "both drivers q2": 3,
+          "sprint positions lost": -11,
+          "sprint overtake bonus": 7,
+          "race not classified": -20,
+          "race position lost": -1,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 20,
+        "circuit": "Las Vegas",
+        "price": 7.2,
+        "points": {
+          "total": 12,
+          "qualifying position": 2,
+          "one driver q3": 5,
+          "race position lost": -11,
+          "race overtake bonus": 16
+        }
+      },
+      {
+        "id": 21,
+        "circuit": "Abu Dhabi",
+        "price": 7.2,
+        "points": {
+          "total": 2,
+          "qualifying position": 3,
+          "one driver q3": 5,
+          "race position lost": -10,
+          "race overtake bonus": 4
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "team": "McLaren",
+    "startPrice": 9.1,
+    "races": [
+      {
+        "id": 0,
+        "circuit": "Bahrain",
+        "price": 9,
+        "points": {
+          "total": -10,
+          "race not classified": -20,
+          "both drivers q2": 1,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 1,
+        "circuit": "Saudi Arabia",
+        "price": 9,
+        "points": {
+          "total": 14,
+          "qualifying position": 2,
+          "one driver q3": 5,
+          "race position lost": -5,
+          "race overtake bonus": 12
+        }
+      },
+      {
+        "id": 2,
+        "circuit": "Australia",
+        "price": 9,
+        "points": {
+          "total": 36,
+          "race position": 12,
+          "no driver q2": 1,
+          "race position gained": 15,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 3,
+        "circuit": "Azerbaijan",
+        "price": 9.0,
+        "points": {
+          "total": 23,
+          "sprint positions lost": -6,
+          "sprint overtake bonus": 4,
+          "race position": 2,
+          "qualifying position": 5,
+          "both drivers q3": 10,
+          "race position lost": -3,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 4,
+        "circuit": "United States - Miami",
+        "price": 8.9,
+        "points": {
+          "total": 8,
+          "no driver q2": -1,
+          "race position lost": -1,
+          "race overtake bonus": 7,
+          "3rd fastest pitstop": 3
+        }
+      },
+      {
+        "id": 5,
+        "circuit": "Monaco",
+        "price": 8.9,
+        "points": {
+          "total": 15,
+          "race position": 3,
+          "qualifying position": 1,
+          "one driver q3": 5,
+          "race position gained": 2,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 6,
+        "circuit": "Spain",
+        "price": 8.8,
+        "points": {
+          "total": 11,
+          "qualifying position": 9,
+          "both drivers q3": 10,
+          "race position lost": -18,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 7,
+        "circuit": "Canada",
+        "price": 9.3,
+        "points": {
+          "total": 15,
+          "qualifying position": 6,
+          "one driver q3": 10,
+          "race position lost": -9,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 8,
+        "circuit": "Austria",
+        "price": 9.8,
+        "points": {
+          "total": 54,
+          "sprint overtake bonus": 14,
+          "race position": 12,
+          "qualifying position": 7,
+          "one driver q3": 5,
+          "race position lost": -3,
+          "fastest pitstop": 10,
+          "race overtake bonus": 9
+        }
+      },
+      {
+        "id": 9,
+        "circuit": "United Kingdom",
+        "price": 10.8,
+        "points": {
+          "total": 68,
+          "race position": 30,
+          "qualifying position": 17,
+          "both drivers q3": 10,
+          "fastest pitstop": 10,
+          "race overtake bonus": 2,
+          "race position lost": -1
+        }
+      },
+      {
+        "id": 10,
+        "circuit": "Hungary",
+        "price": 11.8,
+        "points": {
+          "total": 62,
+          "race position": 28,
+          "qualifying position": 15,
+          "both drivers q3": 10,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 11,
+        "circuit": "Belgium",
+        "price": 11.8,
+        "points": {
+          "total": 18,
+          "sprint positions lost": -1,
+          "sprint overtake bonus": 6,
+          "race position": 6,
+          "qualifying position": 9,
+          "sprint position": 10,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 12,
+        "circuit": "Netherlands",
+        "price": 12.3,
+        "points": {
+          "total": 56,
+          "race position": 8,
+          "qualifying position": 12,
+          "both drivers q3": 10,
+          "race position lost": -6,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 29
+        }
+      },
+      {
+        "id": 13,
+        "circuit": "Monza",
+        "price": 13.3,
+        "points": {
+          "total": 44,
+          "race position": 4,
+          "qualifying position": 6,
+          "both drivers q3": 10,
+          "race position lost": -4,
+          "race fastest lap": 10,
+          "fastest pitstop": 10,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 14,
+        "circuit": "Singapore",
+        "price": 14.3,
+        "points": {
+          "total": 64,
+          "race position": 24,
+          "qualifying position": 7,
+          "one driver q3": 5,
+          "race position gained": 12,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 15,
+        "circuit": "Japan",
+        "price": 15.3,
+        "points": {
+          "total": 66,
+          "race position": 33,
+          "qualifying position": 17,
+          "both drivers q3": 10,
+          "race overtake bonus": 6
+        }
+      },
+      {
+        "id": 16,
+        "circuit": "Qatar",
+        "price": 16.3,
+        "points": {
+          "total": 110,
+          "sprint positions lost": -1,
+          "sprint overtake bonus": 6,
+          "race position": 33,
+          "qualifying position": 6,
+          "sprint position": 14,
+          "both drivers q3": 10,
+          "race position gained": 11,
+          "fastest pitstop": 10,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 18
+        }
+      },
+      {
+        "id": 17,
+        "circuit": "Austin",
+        "price": 16.4,
+        "points": {
+          "total": 36,
+          "sprint positions lost": -5,
+          "sprint overtake bonus": 1,
+          "race position": 18,
+          "qualifying position": 10,
+          "sprint position": 5,
+          "race not classified": -20,
+          "both drivers q3": 10,
+          "fastest pitstop": 10,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 18,
+        "circuit": "Mexico",
+        "price": 16.7,
+        "points": {
+          "total": 57,
+          "race position": 14,
+          "qualifying position": 4,
+          "one driver q3": 5,
+          "race position gained": 11,
+          "race overtake bonus": 23
+        }
+      },
+      {
+        "id": 19,
+        "circuit": "Brazil",
+        "price": 17.0,
+        "points": {
+          "total": 65,
+          "sprint positions lost": -1,
+          "sprint overtake bonus": 6,
+          "race position": 18,
+          "qualifying position": 5,
+          "sprint position": 7,
+          "both drivers q3": 10,
+          "race fastest lap": 10,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 20,
+        "circuit": "Las Vegas",
+        "price": 17.0,
+        "points": {
+          "total": 34,
+          "race position": 1,
+          "race not classified": -20,
+          "no driver q2": -1,
+          "race position gained": 8,
+          "race fastest lap": 10,
+          "fastest pitstop": 10,
+          "race overtake bonus": 26
+        }
+      },
+      {
+        "id": 21,
+        "circuit": "Abu Dhabi",
+        "price": 17.1,
+        "points": {
+          "total": 59,
+          "race position": 18,
+          "qualifying position": 14,
+          "both drivers q3": 10,
+          "race position lost": -3,
+          "2nd fastest pitstop": 5,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 12
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "team": "AlphaTauri",
+    "startPrice": 6.4,
+    "races": [
+      {
+        "id": 0,
+        "circuit": "Bahrain",
+        "price": 6.3,
+        "points": {
+          "total": 9,
+          "both drivers q2": 1,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 1,
+        "circuit": "Saudi Arabia",
+        "price": 6.3,
+        "points": {
+          "total": 15,
+          "no driver q2": -1,
+          "race position gained": 9,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 2,
+        "circuit": "Australia",
+        "price": 6.2,
+        "points": {
+          "total": 13,
+          "race position": 1,
+          "both drivers q2": 3,
+          "race position gained": 2,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 3,
+        "circuit": "Azerbaijan",
+        "price": 6.1,
+        "points": {
+          "total": -23,
+          "sprint positions gained": 4,
+          "sprint overtake bonus": 5,
+          "race position": 1,
+          "qualifying position": 3,
+          "race not classified": -20,
+          "qf not classified": -5,
+          "one driver q3": 5,
+          "race position lost": -2,
+          "race overtake bonus": 6,
+          "sprint not classified": -20
+        }
+      },
+      {
+        "id": 4,
+        "circuit": "United States - Miami",
+        "price": 6.1,
+        "points": {
+          "total": 17,
+          "one driver q2": 1,
+          "race position gained": 3,
+          "race overtake bonus": 13
+        }
+      },
+      {
+        "id": 5,
+        "circuit": "Monaco",
+        "price": 6.0,
+        "points": {
+          "total": 1,
+          "qualifying position": 2,
+          "one driver q3": 5,
+          "race position lost": -6
+        }
+      },
+      {
+        "id": 6,
+        "circuit": "Spain",
+        "price": 6.0,
+        "points": {
+          "total": 20,
+          "both drivers q2": 5,
+          "race position gained": 3,
+          "race overtake bonus": 14
+        }
+      },
+      {
+        "id": 7,
+        "circuit": "Canada",
+        "price": 6.0,
+        "points": {
+          "total": 6,
+          "no driver q2": -1,
+          "race position gained": 4,
+          "race overtake bonus": 3
+        }
+      },
+      {
+        "id": 8,
+        "circuit": "Austria",
+        "price": 6.0,
+        "points": {
+          "total": 20,
+          "sprint positions lost": -6,
+          "sprint overtake bonus": 8,
+          "no driver q2": -1,
+          "2nd fastest pitstop": 5,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 9,
+        "circuit": "United Kingdom",
+        "price": 6.0,
+        "points": {
+          "total": 5,
+          "no driver q2": -1,
+          "race position gained": 1,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 10,
+        "circuit": "Hungary",
+        "price": 6.0,
+        "points": {
+          "total": 8,
+          "one driver q2": 1,
+          "race position gained": 2,
+          "race overtake bonus": 5
+        }
+      },
+      {
+        "id": 11,
+        "circuit": "Belgium",
+        "price": 6.0,
+        "points": {
+          "total": 18,
+          "sprint positions lost": -1,
+          "race position": 1,
+          "one driver q2": 1,
+          "race position gained": 4,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 10
+        }
+      },
+      {
+        "id": 12,
+        "circuit": "Netherlands",
+        "price": 6.5,
+        "points": {
+          "total": 36,
+          "one driver q2": 1,
+          "race position gained": 8,
+          "race overtake bonus": 27
+        }
+      },
+      {
+        "id": 13,
+        "circuit": "Monza",
+        "price": 6.4,
+        "points": {
+          "total": -12,
+          "one driver q2": 3,
+          "race not classified": -20,
+          "race position gained": 1,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 14,
+        "circuit": "Singapore",
+        "price": 6.3,
+        "points": {
+          "total": -4,
+          "race position": 2,
+          "qualifying position": 1,
+          "race not classified": -20,
+          "one driver q3": 5,
+          "race position gained": 1,
+          "race overtake bonus": 7
+        }
+      },
+      {
+        "id": 15,
+        "circuit": "Japan",
+        "price": 6.8,
+        "points": {
+          "total": 15,
+          "qualifying position": 2,
+          "one driver q3": 5,
+          "race position lost": -3,
+          "3rd fastest pitstop": 3,
+          "race overtake bonus": 8
+        }
+      },
+      {
+        "id": 16,
+        "circuit": "Qatar",
+        "price": 6.7,
+        "points": {
+          "total": -4,
+          "sprint positions gained": 7,
+          "sprint overtake bonus": 3,
+          "one driver q2": 1,
+          "race position lost": -4,
+          "race overtake bonus": 9,
+          "sprint not classified": -20
+        }
+      },
+      {
+        "id": 17,
+        "circuit": "Austin",
+        "price": 7.2,
+        "points": {
+          "total": 34,
+          "both drivers q2": 3,
+          "sprint positions gained": 3,
+          "sprint overtake bonus": 8,
+          "race position": 4,
+          "race position gained": 2,
+          "race fastest lap": 10,
+          "race overtake bonus": 4
+        }
+      },
+      {
+        "id": 18,
+        "circuit": "Mexico",
+        "price": 7.7,
+        "points": {
+          "total": 42,
+          "race position": 6,
+          "qualifying position": 7,
+          "one driver q3": 5,
+          "race position gained": 3,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 16
+        }
+      },
+      {
+        "id": 19,
+        "circuit": "Brazil",
+        "price": 8.2,
+        "points": {
+          "total": 31,
+          "sprint positions lost": -1,
+          "sprint overtake bonus": 6,
+          "race position": 2,
+          "sprint position": 3,
+          "no driver q2": -1,
+          "race position gained": 11,
+          "race overtake bonus": 11
+        }
+      },
+      {
+        "id": 20,
+        "circuit": "Las Vegas",
+        "price": 8.7,
+        "points": {
+          "total": 26,
+          "one driver q2": 1,
+          "race position gained": 2,
+          "2nd fastest pitstop": 5,
+          "race overtake bonus": 18
+        }
+      },
+      {
+        "id": 21,
+        "circuit": "Abu Dhabi",
+        "price": 8.7,
+        "points": {
+          "total": 27,
+          "race position": 4,
+          "qualifying position": 5,
+          "one driver q3": 5,
+          "race position gained": 2,
+          "race overtake bonus": 11
+        }
+      }
+    ]
+  }
+]

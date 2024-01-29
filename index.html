@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>F1 Fantasy</title>
+    <link rel="stylesheet" href="styles.css" />
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Formula 1 Fantasy Game Results</h1>
+    </header>
+
+    <main>
+      <section>
+        <h2>Overall Statistics</h2>
+        <div class="toggle-switch">
+          <span class="switch-label">Drivers</span>
+          <label class="switch">
+            <input type="checkbox" id="overall-switch" />
+            <span class="slider round"></span>
+          </label>
+          <span class="switch-label">Constructors</span>
+        </div>
+        <div id="table-container"></div>
+        <div id="table-tiles"></div>
+      </section>
+
+      <section>
+        <h2>Race Results</h2>
+        <div class="toggle-switch">
+          <span class="switch-label">Drivers</span>
+          <label class="switch">
+            <input type="checkbox" id="race-switch" />
+            <span class="slider round"></span>
+          </label>
+          <span class="switch-label">Constructors</span>
+        </div>
+        <div class="select-area">
+          <label for="raceSelect">Select a Race:</label>
+          <select id="raceSelect" class="item-select"></select>
+        </div>
+
+        <div id="race-table-container"></div>
+        <div id="race-table-tiles"></div>
+      </section>
+
+      <section>
+        <h2>Price Analysis</h2>
+        <div class="toggle-switch">
+          <span class="switch-label">Drivers</span>
+          <label class="switch">
+            <input type="checkbox" id="price-switch" />
+            <span class="slider round"></span>
+          </label>
+          <span class="switch-label">Constructors</span>
+        </div>
+        <div class="select-area">
+          <label for="priceSelect">Select a Driver/Team:</label>
+          <select id="priceSelect" class="item-select"></select>
+        </div>
+        <div>
+          <canvas id="priceChart"></canvas>
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js" type="module"></script>
+  </body>
+</html>
