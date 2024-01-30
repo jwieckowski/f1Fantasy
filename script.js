@@ -352,44 +352,43 @@ function addDriversSelectItems(init = false) {
     });
   }
 
-  if (init) {
-    document.addEventListener("load", function () {
-      addItems();
-    });
-  } else {
-    addItems();
-  }
+  addItems();
+  // if (init) {
+  //   document.addEventListener("load", function () {
+  //     addItems();
+  //   });
+  // } else {
+  //   addItems();
+  // }
 }
 
 function addRacesSelectItems() {
-  document.addEventListener("load", function () {
-    const names = drivers[0].races.map((race) => race.circuit);
+  const names = drivers[0].races.map((race) => race.circuit);
 
-    // Get the select element
-    const raceSelect = document.getElementById("raceSelect");
+  // Get the select element
+  const raceSelect = document.getElementById("raceSelect");
 
-    // Populate the select with options
-    names.forEach((driver) => {
-      const option = document.createElement("option");
-      option.value = driver;
-      option.textContent = driver;
-      raceSelect.appendChild(option);
-    });
+  // Populate the select with options
+  names.forEach((driver) => {
+    const option = document.createElement("option");
+    option.value = driver;
+    option.textContent = driver;
+    raceSelect.appendChild(option);
+  });
 
-    // Add an event listener for the select if needed
-    raceSelect.addEventListener("change", function () {
-      const selectedRace = raceSelect.value;
+  // Add an event listener for the select if needed
+  raceSelect.addEventListener("change", function () {
+    const selectedRace = raceSelect.value;
 
-      const raceSwitch = document.getElementById("race-switch");
+    const raceSwitch = document.getElementById("race-switch");
 
-      if (raceSwitch.checked) {
-        addConstructorRaceDataTable(selectedRace, true);
-        addConstructorRaceDataTiles(selectedRace, true);
-      } else {
-        addDriversRaceDataTable(selectedRace, true);
-        addDriversRaceDataTiles(selectedRace, true);
-      }
-    });
+    if (raceSwitch.checked) {
+      addConstructorRaceDataTable(selectedRace, true);
+      addConstructorRaceDataTiles(selectedRace, true);
+    } else {
+      addDriversRaceDataTable(selectedRace, true);
+      addDriversRaceDataTiles(selectedRace, true);
+    }
   });
 }
 
@@ -806,49 +805,49 @@ function prepareRaceConstructorsTableData() {
 }
 
 function setSwitchListeners() {
-  document.addEventListener("load", function () {
-    const overallSwitch = document.getElementById("overall-switch");
-    const raceSwitch = document.getElementById("race-switch");
-    const priceSwitch = document.getElementById("price-switch");
+  const overallSwitch = document.getElementById("overall-switch");
+  const raceSwitch = document.getElementById("race-switch");
+  const priceSwitch = document.getElementById("price-switch");
 
-    overallSwitch.addEventListener("click", (e) => {
-      if (e.target.checked) {
-        prepareConstructorsTableData();
-      } else {
-        prepareDriversTableData();
-      }
-    });
+  overallSwitch.addEventListener("click", (e) => {
+    if (e.target.checked) {
+      prepareConstructorsTableData();
+    } else {
+      prepareDriversTableData();
+    }
+  });
 
-    raceSwitch.addEventListener("click", (e) => {
-      if (e.target.checked) {
-        prepareRaceConstructorsTableData();
-      } else {
-        prepareRaceDriversTableData();
-      }
-    });
+  raceSwitch.addEventListener("click", (e) => {
+    if (e.target.checked) {
+      prepareRaceConstructorsTableData();
+    } else {
+      prepareRaceDriversTableData();
+    }
+  });
 
-    priceSwitch.addEventListener("click", (e) => {
-      if (e.target.checked) {
-        addConstructorsSelectItems();
-        updateConstructorsPriceChart(constructors[0]);
-      } else {
-        updateConstructorsPriceChart(drivers[0]);
-        addDriversSelectItems();
-      }
-    });
+  priceSwitch.addEventListener("click", (e) => {
+    if (e.target.checked) {
+      addConstructorsSelectItems();
+      updateConstructorsPriceChart(constructors[0]);
+    } else {
+      updateConstructorsPriceChart(drivers[0]);
+      addDriversSelectItems();
+    }
   });
 }
 
 // tables
-prepareDriversTableData();
-prepareRaceDriversTableData();
+document.addEventListener("load", function () {
+  prepareDriversTableData();
+  prepareRaceDriversTableData();
 
-// selects
-addDriversSelectItems();
-addRacesSelectItems();
+  // selects
+  addDriversSelectItems();
+  addRacesSelectItems();
 
-// charts
-createDriversPriceChart(drivers[0]);
+  // charts
+  createDriversPriceChart(drivers[0]);
 
-// switches
-setSwitchListeners();
+  // switches
+  setSwitchListeners();
+});
