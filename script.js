@@ -837,7 +837,7 @@ function setSwitchListeners() {
 }
 
 // tables
-document.addEventListener("load", function () {
+document.addEventListener("DOMContentLoaded", function () {
   prepareDriversTableData();
   prepareRaceDriversTableData();
 
