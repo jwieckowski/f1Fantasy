@@ -353,7 +353,7 @@ function addDriversSelectItems(init = false) {
   }
 
   if (init) {
-    document.addEventListener("DOMContentLoaded", function () {
+    document.addEventListener("load", function () {
       addItems();
     });
   } else {
@@ -362,7 +362,7 @@ function addDriversSelectItems(init = false) {
 }
 
 function addRacesSelectItems() {
-  document.addEventListener("DOMContentLoaded", function () {
+  document.addEventListener("load", function () {
     const names = drivers[0].races.map((race) => race.circuit);
 
     // Get the select element
@@ -806,7 +806,7 @@ function prepareRaceConstructorsTableData() {
 }
 
 function setSwitchListeners() {
-  document.addEventListener("DOMContentLoaded", function () {
+  document.addEventListener("load", function () {
     const overallSwitch = document.getElementById("overall-switch");
     const raceSwitch = document.getElementById("race-switch");
     const priceSwitch = document.getElementById("price-switch");
